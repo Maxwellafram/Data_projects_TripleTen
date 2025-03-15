@@ -19,7 +19,3 @@ SELECT
       ,[Cost USD]
       ,[Avg Monthly Income (USD)]
   FROM [dbo].[Restaurans_Customers_Orders_Table]
- 
-
-
-
