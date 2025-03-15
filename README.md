@@ -1,6 +1,5 @@
 # Data_projects_TripleTen
-Worked on this project while attending the Business Intelligence Analyst BootCamp with Triple Ten, focusing on data analysis, visualisation, and dashboard development.
-
+This report outlines key insights derived from Zomato’s customer data, highlighting behavioral patterns segmented by age, gender, income, and restaurant ratings. The dashboard aims to support Zomato in identifying target customer segments and optimizing sales strategies based on these insights.
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
